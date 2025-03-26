@@ -44,7 +44,7 @@ cd todo-list-app
 ## ✨ Captura de pantalla
 
 <p align="center">
-  <img src="./public/todolist.png" alt="Todo List Screenshot" width="600"/>
+  <img src="./public/todolist.png" alt="Todo List Screenshot" width="400"/>
 </p>
 
 
