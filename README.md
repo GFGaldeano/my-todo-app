@@ -37,5 +37,11 @@ cd todo-list-app
 
 - Esto abrirá la aplicación en http://localhost:5173/
 
+## ✨ Captura de pantalla
+
+<p align="center">
+  <img src="./public/todolist.png" alt="Todo List Screenshot" width="600"/>
+</p>
+
 
 
