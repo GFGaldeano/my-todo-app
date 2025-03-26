@@ -1,12 +1,41 @@
-# React + Vite
+# 📝 Todo List App (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta es una aplicación simple de lista de tareas (Todo List) desarrollada con **React** y **Vite**. Te permite:
 
-Currently, two official plugins are available:
+- ✅ Agregar tareas
+- ✏️ Editar tareas
+- 🗑️ Eliminar tareas
+- ☑️ Marcar tareas como completadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tecnologías utilizadas
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- JavaScript
+- CSS
+
+---
+
+## 📦 Instalación
+
+### 1. Cloná el repositorio
+
+git clone https://github.com/tu-usuario/todo-list-app.git
+cd todo-list-app
+
+--- 
+
+### 2. Instalación de dependencias
+
+- npm install
+
+### 3. Ejecutá la app en modo desarrollo
+
+- npm run dev
+
+- Esto abrirá la aplicación en http://localhost:5173/
+
+
+
