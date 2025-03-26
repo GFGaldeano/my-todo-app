@@ -31,11 +31,15 @@ cd todo-list-app
 
 - npm install
 
+--- 
+
 ### 3. Ejecutá la app en modo desarrollo
 
 - npm run dev
 
 - Esto abrirá la aplicación en http://localhost:5173/
+
+--- 
 
 ## ✨ Captura de pantalla
 
